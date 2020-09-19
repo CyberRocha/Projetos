@@ -61,6 +61,10 @@ type
     MiniHelicoptero: TRectangle;
     Timer_LoopPrincipal: TTimer;
     MediaPlayerHelicoptero: TMediaPlayer;
+    Layout1: TLayout;
+    Lbl_Lives: TLabel;
+    Layout3: TLayout;
+    Lbl_Score: TLabel;
     procedure FormCreate(Sender: TObject);
     Procedure ControleTeclado;
     procedure Timer_LoopPrincipalTimer(Sender: TObject);
