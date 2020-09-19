@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/03/19 20:24:32.000.762,=C:\Users\Rocha\Documents\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
+    <Transaction>2020/03/19 20:24:36.000.774,=C:\Users\Rocha\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2020/03/20 17:32:48.000.007,=C:\Users\Rocha\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/03/20 21:30:27.000.944,=C:\Users\Rocha\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/03/31 19:57:54.000.610,=C:\Users\Rocha\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/03/31 20:03:35.000.810,C:\Users\Rocha\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Delphi_Games\Projeto Game\Unit1.fmx</Transaction>
+    <Transaction>2020/03/31 20:03:35.000.810,C:\Users\Rocha\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Delphi_Games\Projeto Game\Unit1.pas</Transaction>
+    <Transaction>2020/03/31 20:03:37.000.749,C:\Users\Rocha\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Delphi_Games\Projeto Game\Project1.dproj</Transaction>
+    <Transaction>2020/04/02 21:28:48.000.051,=C:\Delphi_Games\Projeto Game\ModelSupport_Project1\default.txaPackage</Transaction>
+    <Transaction>2020/09/18 00:59:25.000.164,C:\Delphi_Games\Projeto Game\Principal.pas=C:\Delphi_Games\Projeto Game\Unit1.pas</Transaction>
+    <Transaction>2020/09/18 00:59:25.000.164,C:\Delphi_Games\Projeto Game\Principal.fmx=C:\Delphi_Games\Projeto Game\Unit1.fmx</Transaction>
+    <Transaction>2020/09/18 02:08:58.000.407,C:\Delphi_Games\Projeto Game\Helicoptero.dproj=C:\Delphi_Games\Projeto Game\Project1.dproj</Transaction>
+    <Transaction>2020/09/18 02:08:58.000.563,=C:\Delphi_Games\Projeto Game\ModelSupport_Helicoptero\default.txaPackage</Transaction>
+    <Transaction>2020/09/18 02:08:58.000.471,c:\delphi_games\projeto game\modelsupport_project1\default.txapackage=</Transaction>
+    <Transaction>2020/09/18 02:08:59.000.204,=C:\Delphi_Games\Projeto Game\ModelSupport_Helicoptero\default.txvpck</Transaction>
+    <Transaction>2020/09/18 02:08:59.000.307,=C:\Delphi_Games\Projeto Game\ModelSupport_Helicoptero\Principal\default.txvpck</Transaction>
+    <Transaction>2020/09/18 02:09:00.000.187,=C:\Delphi_Games\Projeto Game\ModelSupport_Helicoptero\Helicoptero\default.txvpck</Transaction>
+    <Transaction>2020/09/18 02:09:00.000.534,=C:\Delphi_Games\Projeto Game\ModelSupport_Helicoptero\Helicoptero\default.txaPackage</Transaction>
+    <Transaction>2020/09/18 02:09:00.000.509,=C:\Delphi_Games\Projeto Game\ModelSupport_Helicoptero\Principal\default.txaPackage</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="Nexus_S_API_22" Android64="Nexus_4_API_22"/>
+	</ActiveMobileDevice>
+</BorlandProject>
