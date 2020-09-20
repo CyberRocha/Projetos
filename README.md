@@ -6,7 +6,7 @@ Projetos com fins didáticos escrito em Delphi 10.3 Rio
 ```
 
 <div class="text-white bg-red mb-2">
-  Helicoptero
+  .text-white on .bg-red
 </div>
 
 
