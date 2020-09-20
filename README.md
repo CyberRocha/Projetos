@@ -1,9 +1,9 @@
 # Projetos
 Projetos com fins didáticos escrito em Delphi 10.3 Rio
 
-<span style="color: red">## Helicoptero</span>
-
 ```diff
+## Helicoptero in orange (and bold)
+```
 - text in red
 + text in green
 ! text in orange
