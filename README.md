@@ -1,10 +1,6 @@
 # Projetos
 Projetos com fins didáticos escrito em Delphi 10.3 Rio
 
-```diff
-! Helicoptero
-```
-
 <div class="text-white bg-red mb-2">
   .Helicoptero
 </div>
