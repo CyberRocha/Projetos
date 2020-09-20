@@ -2,7 +2,7 @@
 Projetos com fins didáticos escrito em Delphi 10.3 Rio
 
 ```diff
-* Helicoptero in orange
+! Helicoptero
 ```
 
 > <img src="https://github.com/CyberRocha/Projetos/blob/master/Projeto%20Game/Helicoptero.png?raw=true" width="300" height="270"><br>
